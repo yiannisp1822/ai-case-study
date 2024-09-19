@@ -36,7 +36,7 @@ The initial funding round ($124M) was led by Jaan Tallinn, co-founder of Skype. 
 Anthropic, similar to other GenAI companies, builds agents/assistants (Claude) that can converse with the user simulating human characteristics. In traditional search, users would write a question, or specifiy what they want and would get a series of links that they would have to navigate through to find the required answer. With GenAI based on LLMS, the answer is synthesized by the model.  
 Anthropic’s first product is Claude, an AI assistant similar to Chat GPT. It is based on Anthropic’s proprietary LLMs.  
 Anthropic offers consumer and enterprise versions of Claude.  
-Claude Enterprise connects to a company’s internal knowledge base and can be used to generate insights, forecasts, ideas, summaries, etc., as well as to track projects, and create and share work. It has a massive 500k token context window and advanced security controls.
+Claude Enterprise connects to a company’s internal knowledge base and can be used to generate insights, forecasts, ideas, summaries, etc., as well as to track projects, and create and share work. It has a massive 500k token context window and advanced security controls.  
 
 The consumer version of Claud comes in the following flavors:
 1.	The free version uses Claude 3.5 Sonnet
