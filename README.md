@@ -162,10 +162,10 @@ The initial funding round ($124M) was led by Jaan Tallinn, co-founder of Skype. 
 
    - **Safety**: Constitutional AI (anthropic.com): Constitutional AI (CAI) is an Anthropic-developed method for aligning general-purpose language models to abide by high-level normative principles written into a constitution. Anthropic’s language model Claude currently relies on a constitution curated by Anthropic employees.  
 
-   - **Cybersecurity**: Graph Neural Networks - In response to this escalating challenge, the field of Artificial Intelligence (AI) has emerged as a promising ally in fortifying digital defenses. Among various AI techniques, Graph Neural Networks (GNNs) have garnered significant attention and acclaim for their ability to effectively tackle cybersecurity challenges. Cybersecurity is inherently a problem of graph analysis, as malicious activities in digital systems are interconnected and can form identifiable patterns. Graphs provide an intuitive and effective representation of these complex relationships, where nodes represent entities such as devices, users, or applications, and edges capture the connections and interactions between these entities. *
+   - **Cybersecurity**: Graph Neural Networks - In response to this escalating challenge, the field of Artificial Intelligence (AI) has emerged as a promising ally in fortifying digital defenses. Among various AI techniques, Graph Neural Networks (GNNs) have garnered significant attention and acclaim for their ability to effectively tackle cybersecurity challenges. Cybersecurity is inherently a problem of graph analysis, as malicious activities in digital systems are interconnected and can form identifiable patterns. Graphs provide an intuitive and effective representation of these complex relationships, where nodes represent entities such as devices, users, or applications, and edges capture the connections and interactions between these entities. *  
 
-
-* Sources  
+   
+# Sources  
   
   https://www.crunchbase.com/organization/anthropic  
   https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m   
