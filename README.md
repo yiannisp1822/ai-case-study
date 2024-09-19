@@ -168,7 +168,7 @@ Anthropic envisions a future where AI systems are developed, strongly emphasizin
    - **Cybersecurity**: Graph Neural Networks - In response to this escalating challenge, the field of Artificial Intelligence (AI) has emerged as a promising ally in fortifying digital defenses. Among various AI techniques, Graph Neural Networks (GNNs) have garnered significant attention and acclaim for their ability to effectively tackle cybersecurity challenges. Cybersecurity is inherently a problem of graph analysis, as malicious activities in digital systems are interconnected and can form identifiable patterns. Graphs provide an intuitive and effective representation of these complex relationships, where nodes represent entities such as devices, users, or applications, and edges capture the connections and interactions between these entities. *  
 
    
-# Sources  
+## Sources  
   
   https://www.crunchbase.com/organization/anthropic  
   https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m   
