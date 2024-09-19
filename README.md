@@ -57,7 +57,7 @@ Anthropic envisions a future where AI systems are developed, strongly emphasizin
   The broader GenAI market is estimated to be worth $68.34B in 2024, and $491B by 2031
 
 
-* **What solution does this company offer that its competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* **What solution does this company offer that its competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
   
   Anthropic has positioned itself as a leader in AI safety using the Constitutional AI framework and has capabilities (such as Claude’s 500k context token window extending to 1m when all 3 models are used) that allow it to offer various services in the enterprise segment. Anthropic is also focused on security and has built best-in-class jailbreak resistance into its models, reducing the risk of the AI being manipulated to produce harmful or inappropriate content.
 
