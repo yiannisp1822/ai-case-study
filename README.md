@@ -1,10 +1,6 @@
-AI Bootcamp 
 
-Module 1 Challenge
+# Anthropic  
 
-
-# TITLE
-**Anthropic Case Study**  
 Ioannis Pagkalos  
 Sept 19th 2024
 
@@ -13,22 +9,29 @@ Sept 19th 2024
 >Anthropic is an AI-driven research company focusing on increasing the safety of AI systems. Its research interests span multiple areas, including natural language, human feedback, scaling laws, reinforcement learning, code generation, and interpretability. The company's initial product is Claude, an AI helper for tasks of any size.
 Anthropic envisions a future where AI systems are developed, strongly emphasizing safety, transparency, and alignment with human values. The company seeks to contribute to creating AI technologies that enhance human well-being and are trustworthy and reliable.
 
-* Name of company  
-Anthropic
+* **Name of company**  
+  
+  Anthropic
 
 * **When was the company incorporated?**  
-2021
+  
+  2021
 
 * **Who are the founders of the company?**  
-Daniela Amodei, Dario Amodei.  
-Other Co-founders noted (Jared Kaplan, Ben Mannm, Jack Clark)
+  
+  Daniela Amodei, Dario Amodei.  
+  Other Co-founders noted (Jared Kaplan, Ben Mannm, Jack Clark)
 
 * **How did the idea for the company (or project) come about?**  
-The anthropic founders worked previously at Open AI. They left to research how to increase the safety of AI systems, focusing on the reliability of large-scale AI models, making them more interpretable, and allowing human feedback to influence the development and deployment of the models.
+  
+  The anthropic founders worked previously at Open AI. They left to research how to increase the safety of AI systems, focusing on the reliability of large-scale AI models, making them more interpretable, and allowing human feedback to influence the development and deployment of the models.
 
-* **How is the company funded? How much funding have they received?** 
-Anthropic has received 10 funding rounds from 51 Investors and has raised a total of $9.7B, $6.5 of which via corporate rounds from companies like Google ($2B) and Amazon ($4B).  
-The initial funding round ($124M) was led by Jaan Tallinn, co-founder of Skype. Also taking part were Infotech's James McClave, Facebook co-founder Dustin Moskovitz, the Center for Emerging Risk Research, and former Google CEO Eric Schmidt.
+* **How is the company funded? How much funding have they received?**  
+  
+  Anthropic has received 10 funding rounds from 51 Investors and has raised a total of $9.7B, $6.5 of which via corporate rounds from companies like Google ($2B) and Amazon ($4B).  
+  The initial funding round ($124M) was led by Jaan Tallinn, co-founder of Skype. Also taking part were Infotech's James McClave, Facebook co-founder Dustin Moskovitz, the Center for Emerging Risk Research, and former Google CEO Eric Schmidt.
+
+
 
 ## Business Activities
 
