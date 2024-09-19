@@ -36,20 +36,20 @@ Anthropic envisions a future where AI systems are developed, strongly emphasizin
 ## Business Activities
 
 * **What specific problem is the company or project trying to solve?**  
- 
- Anthropic, similar to other GenAI companies, builds agents/assistants (Claude) that can converse with the user simulating human characteristics. In traditional search, users would write a question, or specifiy what they want and would get a series of links that they would have to navigate through to find the required answer. With GenAI based on LLMS, the answer is synthesized by the model.
- Anthropic’s first product is Claude, an AI assistant similar to Chat GPT. It is based on Anthropic’s proprietary LLMs.  
- Anthropic offers consumer and enterprise versions of Claude.
- 
- *Claude Enterprise:*  
- Claude Enterprise connects to a company’s internal knowledge base and can be used to generate insights, forecasts, ideas, summaries, etc., as well as to track projects, and create and share work. It has a massive 500k token context window and advanced security controls.
- 
- *The consumer version of Claud comes in the following flavors:*  
- 1. The free version uses Claude 3.5 Sonnet
- 2. The Pro version cost $20/month and gives users 5x more usage, access to more powerful models (Claude Haiku and Claude Opus), the ability to create projects to work with Claude around a set of docs, code, or files, priority access during busy periods and early access to new features. 
- 3. The Team version costs $25/month per user and includes everything in Pro + higher usage limits, the ability to share and discover chats from teammates, and a central billing and admin interface.
- 
- Anthropic also offers direct API access with a limited free version for evaluation before commercial use. Once users want to commercialize applications, they need to purchase credits.
+  
+  Anthropic, similar to other GenAI companies, builds agents/assistants (Claude) that can converse with the user simulating human characteristics. In traditional search, users would write a question, or specifiy what they want and would get a series of links that they would have to navigate through to find the required answer. With GenAI based on LLMS, the answer is synthesized by the model.
+  Anthropic’s first product is Claude, an AI assistant similar to Chat GPT. It is based on Anthropic’s proprietary LLMs.  
+  Anthropic offers consumer and enterprise versions of Claude.
+  
+  *Claude Enterprise:*  
+  Claude Enterprise connects to a company’s internal knowledge base and can be used to generate insights, forecasts, ideas, summaries, etc., as well as to track projects, and create and share work. It has a massive 500k token context window and advanced security controls.  
+  
+  *The consumer version of Claud comes in the following flavors:*  
+  1. The free version uses Claude 3.5 Sonnet  
+  2. The Pro version cost $20/month and gives users 5x more usage, access to more powerful models (Claude Haiku and Claude Opus), the ability to create projects to work with Claude around a set of docs, code, or files, priority access during busy periods and early access to new features. 
+  3. The Team version costs $25/month per user and includes everything in Pro + higher usage limits, the ability to share and discover chats from teammates, and a central billing and admin interface.  
+  
+  Anthropic also offers direct API access with a limited free version for evaluation before commercial use. Once users want to commercialize applications, they need to purchase credits.
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?  
   
